@@ -21,6 +21,6 @@ public:
 	friend ostream& operator<<(ostream& obj,student&);
 	student& operator=(student &a);
 	student(const student &);
-	
+	//void student::setstudent(student);
 
 };
